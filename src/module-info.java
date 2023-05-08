@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author AAA
+ *
+ */
+module EXAMPLE {
+}
